@@ -1,0 +1,1 @@
+energia.eletrica.classeEnergia
